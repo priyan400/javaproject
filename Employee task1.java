@@ -1,9 +1,9 @@
 package org.employee;
 
 public class Employee {
-	private void employeeId() {
+	private void employeeCarNo() {
 		// TODO Auto-generated method stub
-		System.out.println("EMP0001");	
+		System.out.println("Tn43GT6543");	
 	}
 	private void employeeName() {
 		// TODO Auto-generated method stub
@@ -30,7 +30,7 @@ public class Employee {
     public static void main(String[] args) {
 	
     Employee b = new Employee();
-    b.employeeId();
+    b.employeeCarNo();
     b.employeeName();
     b.employeeDateOfBirth();
     b.employeeNumber();
