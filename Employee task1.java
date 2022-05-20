@@ -23,7 +23,7 @@ public class Employee {
     System.out.println("prkpriyan@gmail.com");
 	}
     
-    private void employeeAddress() {
+    private void employeNative() {
 		// TODO Auto-generated method stub
     System.out.println("Koodal Nagar,Madurai-625018");
 	}
@@ -35,7 +35,7 @@ public class Employee {
     b.employeeDateOfBirth();
     b.employeeNumber();
     b.employeeEmail();
-    b.employeeAddress();
+    b.employeeNative();
  
     
 	}
